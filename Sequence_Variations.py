@@ -57,4 +57,5 @@ print("Insertions:", counts['insertions'])
 print("Deletions:", counts['deletions'])
 print("\nDetailed Information:")
 print("Substitutions:", mutations['substitutions'])
-print(
+print("Insertions:", mutations['insertions'])
+print("Deletions:", mutations['deletions'])
